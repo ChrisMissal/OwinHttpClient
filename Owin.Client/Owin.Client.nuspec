@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <tags>http</tags>
+    <dependencies>
+      <dependency id="Owin.Builder.Sources" version="0.8.3-alpha" />
+      <dependency id="Owin.Types.Sources" version="0.8.3-alpha" />
+    </dependencies>
+  </metadata>
+</package>
